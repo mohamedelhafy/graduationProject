@@ -13,4 +13,13 @@
      
      using Altium Designer to make the PCB and AWR to semulate the circuit 
 
-    
+-  ## Project team members 
+
+     Mahmoud Mohamed Saeed 
+     Mohamed Farag fadly (mohamedelhafy2017@gmail.com)
+     Taher Magdy Ashour 
+     Mohamed Adel Zohery
+     Heba allah Abdelaziz
+     Ghada Osama Mohamed (ghadaosama163@gmail.com)
+     pasant Essam Ibrahem
+     Nourhan hussien Elsayed 
