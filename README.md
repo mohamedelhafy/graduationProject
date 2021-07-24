@@ -10,6 +10,7 @@
       this project perform the hardware design for the communication subsystem in cubsat 
       
 -  ## Project Explination
-
+     
+     using Altium Designer to make the PCB and AWR to semulate the circuit 
 
     
