@@ -17,7 +17,7 @@
 
     - Mahmoud Mohamed Saeed 
     - Mohamed Farag fadly (mohamedelhafy2017@gmail.com)
-    - Taher Magdy Ashour 
+    - Taher Magdy Ashour (tahermagdy90@gmail.com)
     - Mohamed Adel Zohery
     - Heba allah Abdelaziz
     - Ghada Osama Mohamed (ghadaosama163@gmail.com)
