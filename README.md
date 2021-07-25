@@ -11,7 +11,7 @@
       
 -  ## Project Explination
      
-     using Altium Designer to make the PCB and AWR to semulate the circuit 
+     using Altium Designer to make the PCB and AWR to semulate the circuit for more details please feel free to see the documentation [Graduation_ BOOK](../Graduation_%20BOOK.pdf)
 
 -  ## Project team members 
 
